@@ -1,22 +1,3 @@
-"Your Name":
+#它用来定义一批人名数据，给每个人名设置对应的显示样式、链接、别名，方便程序 / 网页 / 文档批量渲染成带链接、加粗的人名。
+"B. Du":
   bold: true
-
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
-
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
-
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
-
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
-
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
-
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
