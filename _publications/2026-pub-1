@@ -5,10 +5,10 @@ selected:       true
 pub:            "China Science Communication"
 pub_date:       "2026"
 abstract: >-
-  From the first image of Earth's edge captured by a V-2 rocket at about 105 km in 1946 to the orbital constellations of Landsat, SPOT, Gaofen and Fengyun satellites, satellite remote sensing has evolved in less than eight decades. This article traces the field's journey from balloon photography and film-return missions to multispectral, hyperspectral, radar and intelligent satellite constellations, highlights China's leap from early recoverable satellites to the Gaofen program, and shows how remote sensing underpins weather forecasting, agriculture, disaster response, urban governance and global governance.
+  The article traces satellite remote sensing from early balloon and V-2 rocket imagery to Landsat, Gaofen and smart constellations, and shows its wide use in weather forecasting, agriculture, disaster response and urban governance.
 cover:          /assets/images/covers/2026cover2.jpeg
 authors:
 - Bowen Du
 links:
-Original: https://m.kepuchina.cn/tuwendetail?id=755987
+paper: https://m.kepuchina.cn/tuwendetail?id=755987
 ---
